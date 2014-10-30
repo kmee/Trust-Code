@@ -1,0 +1,307 @@
+# Translation of OpenERP Server.
+# This file contains the translation of the following modules:
+#	* sale_report
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenERP Server 7.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-27 18:32+0000\n"
+"PO-Revision-Date: 2014-08-27 18:32+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "* High resistance to corrosion from harsh chemicals and noncombat salinity."
+msgstr "* Elevada resistência à corrosão de agentes químicos agressivos e salinidade marítima."
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "* Products produced in plastic reinforced with fiberglass pultrusion process by;"
+msgstr "* Produto produzido em plástico reforçado com fibra de vidro pelo processo de pultrusão;"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "* Self-extinguishing;"
+msgstr "* Auto-extingüivel;"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "* With UV protection;"
+msgstr "* With UV protection;"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "*Products produced in plastic reinforced with fiberglass pultrusion process by;"
+msgstr "*Products produced in plastic reinforced with fiberglass pultrusion process by;"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "*With UV protection;"
+msgstr "* Proteção contra radiação UV;"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "28 Dias"
+msgstr "28 Dias"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "30 Dias Líquidos"
+msgstr "30 Dias Líquidos"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Application:"
+msgstr "Aplicação:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Buyer:"
+msgstr "Comprador:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Client:"
+msgstr "Cliente:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Color:"
+msgstr "Cor:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Comercial Condition:"
+msgstr "Condições Comerciais:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Description"
+msgstr "Descrição"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Characteristic of the Goods:"
+msgstr "Característica dos Produtos:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Fixation:"
+msgstr "Fixação:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Fone:"
+msgstr "Fone:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Invoice address:"
+msgstr "Endereço de Faturamento:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "NCM:"
+msgstr "Classificação Fiscal:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Net Total:"
+msgstr "Net Total:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Order Nº "
+msgstr "Pedido Nº "
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Payment Term:"
+msgstr "Condição de Pagamento:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Price"
+msgstr "Preço"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Quantity"
+msgstr "Quantidade"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Quotation Nº "
+msgstr "Cotação Nº "
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Ref. /Customer:"
+msgstr "Ref. OC.:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Resin:"
+msgstr "Resina:"
+
+#. module: sale_report
+#: model:ir.actions.report.xml,name:sale_report.aeroo_sale_report_id
+msgid "Sale Report"
+msgstr "Cotação / Pedido"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Salesperson:"
+msgstr "Vendedor:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Shipping address:"
+msgstr "Endereço de Entrega:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Shipping/Carrier:"
+msgstr "Frete/Transportadora:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Taxes:"
+msgstr "IPI:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Total Price"
+msgstr "Preço Total"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Total sem Impostos:"
+msgstr "Total sem Impostos:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Total:"
+msgstr "Total:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Unit Price"
+msgstr "Preço Unit."
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Validity:"
+msgstr "Validade:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "days"
+msgstr "dias"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "days starting from the approval of the project by the customer."
+msgstr "dias apartir da aprovação do projeto pelo cliente"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "email:"
+msgstr "email:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "expected delivery:"
+msgstr "Previsão de Entrega:"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "of"
+msgstr "de"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "immobilized"
+msgstr "Imobilizado"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "resale"
+msgstr "Revenda"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "isophthalic"
+msgstr "Isoftálica"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "off-shore"
+msgstr "Off-Shore"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "orthophthalic"
+msgstr "Ortofitálica"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "phynolic"
+msgstr "Fenólica"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "vinyl ester"
+msgstr "Éster-Vinílica"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "stainless steel 304"
+msgstr "Aço Inox 304"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "stainless steel 316"
+msgstr "Aço Inox 316"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "stainless steel 316L"
+msgstr "Aço Inox 316L"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "yellow safety/gray"
+msgstr "Amarelo Segurança/Cinza"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "green"
+msgstr "Verde"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "yellow safety"
+msgstr "Amarelo Segurança"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "gray"
+msgstr "Cinza"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "write"
+msgstr "Branco"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "special"
+msgstr "Especial"
+
