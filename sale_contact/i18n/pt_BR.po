@@ -22,6 +22,10 @@ msgstr "Pedido de Venda"
 
 #. module: sale_contact
 #: view:sale.order:0
-msgid "sale_contact_id"
+msgid "partner_contact_id"
 msgstr "Contato"
 
+#. module: sale_contact
+#: view:sale.order:0
+msgid "partner_id"
+msgstr "Contato"
