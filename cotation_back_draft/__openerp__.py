@@ -9,7 +9,7 @@
     'website': 'www.trustcode.com.br',
     'version': '7.0',
     'depends': ['sale',],
-    'data': ['sale_order_view.xml',],
+    'data': ['sale_order_view.xml', 'sale_workflow.xml'],
     'test': [],
     'demo': [],
     'installable': True,
