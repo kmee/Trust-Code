@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+	<data>
+
+        <record id="view_reforce_contact_form" model="ir.ui.view">
+            <field name="name">button_sent_draft</field>
+            <field name="model">sale.order</field>
+            <field name="inherit_id" ref="sale.view_order_form"/>
+            <field name="arch" type="xml">
+                <form string="Sales Order" version="7.0">
+                    <header>
+						<button name="button_back_draft" states="sent" string="Back to Draft" class="oe_highlight" type="object" groups="base.group_user"/>
+					</header>
+				</form>
+			</field>
+		</record>
+
+	</data>
+</openerp>
