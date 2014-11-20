@@ -9,7 +9,7 @@
             <field name="arch" type="xml">
             	<header>
                   	<xpath expr="//div[@name='buttons']" position="inside">
-						<button name="button_back_draft" states="sent" string="Back to Draft" type="object" groups="base.group_user" class="oe_highlight"/>
+						<button name="back quotation_draft" states="sent" string="Back to Draft" type="object" groups="base.group_user" class="oe_highlight"/>
 					</xpath>
 				</header>
 			</field>
