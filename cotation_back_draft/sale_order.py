@@ -2,7 +2,7 @@
 
 from openerp.osv import orm, fields
 
-class sale_contact(orm.Model):
+class sale_back_draft(orm.Model):
     _inherit = 'sale.order'
     
     def button_back_draft(self, cr, uid, ids, context=None):
