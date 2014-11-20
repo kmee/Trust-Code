@@ -24,7 +24,7 @@ msgstr "Aplicação"
 #. module: field_application
 #: selection:res.partner,application:0
 #: selection:sale.order,application:0
-msgid "Final Customer"
+msgid "final_customer"
 msgstr "Consumidor Final"
 
 #. module: field_application

@@ -33,7 +33,7 @@ class sale_product_configurator(orm.Model):
     _defaults = {
                  'resin': 'isophthalic',
                  'fixation': 'stainless steel 304',
-                 'color': 'yellow sagety/gray',
+                 'color': 'yellow safety/gray',
                  }
 
 

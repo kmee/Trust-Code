@@ -2,10 +2,10 @@
 
 {
 	"name" : "Sale Reports",
-	"version" : "1.2",
-	"description" : "Report sample for report_aeroo module",
-	"author" : "Alistek Ltd",
-    'website': 'http://www.alistek.com',
+	"version" : "1.0",
+	"description" : "Sale report customized for Isotelha",
+	"author" : "Trust-Code",
+    'website': 'http://www.trust-code.com',
 	"depends" : ["base", "report_aeroo"],
 	"category" : "Isotelha",
 	"init_xml" : [],
