@@ -1,6 +1,6 @@
 # Translation of OpenERP Server.
 # This file contains the translation of the following modules:
-#	* cotation_back_draft
+#	* quotation_back_draft
 #
 msgid ""
 msgstr ""
@@ -15,14 +15,14 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
-#. module: cotation_back_draft
+#. module: quotation_back_draft
 #: view:sale.order:0
 msgid "Back to Draft"
-msgstr "Back to Draft"
+msgstr "Retornar p/ Provisório"
 
-#. module: cotation_back_draft
+#. module: quotation_back_draft
 #: code:_description:0
-#: model:ir.model,name:cotation_back_draft.model_sale_order
+#: model:ir.model,name:quotation_back_draft.model_sale_order
 #, python-format
 msgid "Sales Order"
 msgstr "Pedido de Venda"
