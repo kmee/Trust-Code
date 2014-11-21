@@ -3,20 +3,20 @@
     <data>
 
         <!-- Activity -->
-        
-        <record id="act_sent" model="workflow.activity">
-            <field name="wkf_id" ref="wkf_sale"/>
-            <field name="name">sent</field>
+       <record id="sale.act_draft" model="workflow.activity">
+            <field name="wkf_id" ref="sale.wkf_sale"/>
+            <field name="flow_start">True</field>
+            <field name="name">draft</field>
             <field name="kind">function</field>
             <field name="action">write({'state':'draft'})</field>
-        </record>   
-     
+        </record>
+        
         <!-- Transistion -->
 
         <record id="trans_sent_draft" model="workflow.transition">
-            <field name="act_from" ref="act_sent"/>
-            <field name="act_to" ref="act_draft"/>
-            <field name="signal">back quotation_draft</field>
+            <field name="act_from" ref="sale.act_sent"/>
+            <field name="act_to" ref="sale.act_draft"/>
+            <field name="signal">back_quotation_draft</field>
         </record>
 
     </data>
