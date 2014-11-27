@@ -37,11 +37,6 @@ msgstr "* With UV protection;"
 
 #. module: sale_report
 #: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
-msgid "*Products produced in plastic reinforced with fiberglass pultrusion process by;"
-msgstr "*Products produced in plastic reinforced with fiberglass pultrusion process by;"
-
-#. module: sale_report
-#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
 msgid "*With UV protection;"
 msgstr "* Proteção contra radiação UV;"
 
