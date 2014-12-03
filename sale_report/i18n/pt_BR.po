@@ -33,22 +33,7 @@ msgstr "* Auto-extingüivel;"
 #. module: sale_report
 #: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
 msgid "* With UV protection;"
-msgstr "* With UV protection;"
-
-#. module: sale_report
-#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
-msgid "*With UV protection;"
 msgstr "* Proteção contra radiação UV;"
-
-#. module: sale_report
-#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
-msgid "28 Dias"
-msgstr "28 Dias"
-
-#. module: sale_report
-#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
-msgid "30 Dias Líquidos"
-msgstr "30 Dias Líquidos"
 
 #. module: sale_report
 #: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
@@ -108,7 +93,7 @@ msgstr "Classificação Fiscal:"
 #. module: sale_report
 #: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
 msgid "Net Total:"
-msgstr "Net Total:"
+msgstr "Peso Liquido Total:"
 
 #. module: sale_report
 #: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
@@ -297,6 +282,12 @@ msgstr "Branco"
 
 #. module: sale_report
 #: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
-msgid "special"
-msgstr "Especial"
+msgid "Final Customer"
+msgstr "Consumidor Final"
+
+#. module: sale_report
+#: report:ir.actions.report.xml:sale_report.aeroo_sale_report_id
+msgid "Resale"
+msgstr "Revenda"
+
 
