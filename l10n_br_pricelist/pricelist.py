@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 from openerp.osv import orm, fields
-from pygments.lexer import _inherit
 
 class l10n_br_account_tax(orm.Model):
     _inherit = 'account.tax'
