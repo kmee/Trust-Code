@@ -28,7 +28,7 @@ class l10n_br_sale_order_line (orm.Model):
             lang = partner_obj.browse(cr, uid, partner_id).lang
         context_partner = {'lang': lang, 'partner_id': partner_id}
 
-        if not product:
+        if not product: 
             return {'value': {'th_weight': 0,
                 'product_uos_qty': qty}, 'domain': {'product_uom': [],
                    'product_uos': []}}
@@ -101,6 +101,8 @@ class l10n_br_sale_order_line (orm.Model):
         else:
             cr.execute('SELECT sum(amount) AS sum_amount FROM account_tax WHERE id in %s AND tax_price = %s ', (tuple(result['tax_id']),'t'))
             amount_tax = cr.dictfetchone()
+            if amount_tax['sum_amount'] == None:
+                amount_tax['sum_amount'] = 0.0 
                                 
             price = self.pool.get('product.pricelist').price_get(cr, uid, [pricelist],
                     product, qty or 1.0, amount_tax, partner_id, {
