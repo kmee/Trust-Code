@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import time
 from openerp.osv import orm, fields
 
 class l10n_br_account_tax(orm.Model):
