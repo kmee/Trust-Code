@@ -99,8 +99,11 @@ class l10n_br_sale_order_line (orm.Model):
                     'Please set one before choosing a product.')
             warning_msgs += _("No Pricelist ! : ") + warn_msg +"\n\n"
         else:
-            cr.execute('SELECT sum(amount) AS sum_amount FROM account_tax WHERE id in %s AND tax_in_price = %s ', (tuple(result['tax_id']),'t'))
-            amount_tax = cr.dictfetchone()
+            taxes = tuple(result['tax_id'])
+            amount_tax = {"sum_amount" :0.0}
+            if len(taxes)>0:
+                cr.execute('SELECT sum(amount) AS sum_amount FROM account_tax WHERE id in %s AND tax_in_price = %s ', (taxes,'t'))
+                amount_tax = cr.dictfetchone()
             if amount_tax ['sum_amount'] == None:
                 amount_tax ['sum_amount'] = 0.0
                 
