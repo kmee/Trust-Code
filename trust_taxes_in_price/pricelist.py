@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import time
 from openerp.osv import orm, fields
+from openerp.tools import DEFAULT_SERVER_DATE_FORMAT
 
 class l10n_br_account_tax(orm.Model):
     _inherit = 'account.tax'
